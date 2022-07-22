@@ -8,6 +8,7 @@ file: /courses/11-471-targeting-the-poor-local-economic-development-in-developin
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: What Happens in an Agrarian Reform
 uid: 78fbd6c7-550a-3ec1-f2d8-0b02bb6a52da
 ---
 Article provided as a suggested reading for the course: Tendler, Judith. "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer Organizations-Honduras. Prepared for the Office of Development Programs of the Latin American Bureau of A.I.D.
-

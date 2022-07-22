@@ -5,6 +5,7 @@ file: /courses/11-471-targeting-the-poor-local-economic-development-in-developin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Assignment (oral presentation)
 uid: f325d0b3-3f02-c159-98c3-ea3b48d2223d
 ---
 Instruction or the final oral presentation assignment of the course.
-
