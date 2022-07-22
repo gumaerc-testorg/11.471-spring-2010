@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a list of topics covered in the course
+  and information on meeting times, prerequisites, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1995beb2-aaf2-79e2-bbe1-5f30744b89cb
 ---
