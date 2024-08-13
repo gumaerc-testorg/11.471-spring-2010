@@ -127,7 +127,7 @@ Bunker, Stephan. "Collaboration, Competition, and Corruption in Colonization Pro
 
 ### Recommended
 
-Tendler, Judith. "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer Organizations-Honduras. Prepared for the Office of Development Programs of the Latin American Bureau of A.I.D. ({{% resource_link 78fbd6c7-550a-3ec1-f2d8-0b02bb6a52da "PDF - 3.4MB" %}})
+Tendler, Judith. "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer Organizations-Honduras. Prepared for the Office of Development Programs of the Latin American Bureau of A.I.D. ({{% resource_link "78fbd6c7-550a-3ec1-f2d8-0b02bb6a52da" "PDF - 3.4MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -179,7 +179,7 @@ Hirschman, Albert O. "Linkages." In *The New Palgrave Economic Development*. Edi
 
 Ranis, Gustav, and Frances Stewart. "Rural Linkages in the Philippines and Taiwan." In *Macro-policies for Appropriate Technology in Developing Countries*. Edited by Frances Stewart. Boulder, CO: Westview Press, 1987, pp. 140-191. ISBN: 9780813373034.
 
-Kelegama, Saman, and Fritz Foley. "[Impediments to Promoting Backward Linkages from the Garment Industry in Sri Lanka](http://dx.doi.org/10.1016/S0305-750X(99)00069-8)." *World Development* 27 (1999): 1445-1460.
+Kelegama, Saman, and Fritz Foley. "[Impediments to Promoting Backward Linkages from the Garment Industry in Sri Lanka](http://dx.doi.org/10.1016/S0305-750X%2899%2900069-8)." *World Development* 27 (1999): 1445-1460.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -207,7 +207,7 @@ Paths to effective (and non-effective) public support
 
 Gotsch, Carl. "Agricultural Mechanization in the Punjab: Some Comparative Observations from India and Pakistan." In *Land Tenure and Peasant in South Asia*. Edited by Robert Frykenburg. New Delhi: Orient Longman, 1977.
 
-Tendler, Judith. "[Tales of Dissemination in Small-farm Agriculture: Lessons for Institution Builders](http://dx.doi.org/10.1016/0305-750X(93)90092-N)." *World Development* 21 (October 1994): 1567-1582.
+Tendler, Judith. "[Tales of Dissemination in Small-farm Agriculture: Lessons for Institution Builders](http://dx.doi.org/10.1016/0305-750X%2893%2990092-N)." *World Development* 21 (October 1994): 1567-1582.
 
 ### Recommended
 
@@ -229,17 +229,17 @@ Moss, Daniel. "Why Aren't We Looking at Lessons about Producers-Buyers Relations
  
 {{< tdclose >}}{{< tdopen >}}
 
-Mead, Donald, and Carl Liedholm. "[The Dynamics of Micro and Small Enterprises in Developing Countries](http://dx.doi.org/10.1016/S0305-750X(97)10010-9)." *World Development* 26 (1998): 61-74.
+Mead, Donald, and Carl Liedholm. "[The Dynamics of Micro and Small Enterprises in Developing Countries](http://dx.doi.org/10.1016/S0305-750X%2897%2910010-9)." *World Development* 26 (1998): 61-74.
 
 Fajnzylber, Pablo. "Informality, Productivity, and the Firm." In *Informality: Exit and Exclusion*. By Guillermo Perry, William Maloney, Omar Arias, Pablo Fajnzylber, Andrew Mason, and Jaime Saavedra-Chanduvi. Washington, DC: The World Bank, 2007. ISBN: 9780821370926. Required: pp. 147-164 up to "Cross-country evidence…,"and pp. 174-177; rest optional.
 
 ### Recommended
 
-Jenkins, Rhys. "[Globalisation and Employment: Working for the Poor?](http://www.eldis.org/id21ext/insights47Editorial.html)" *Insights: Development Research* no. 47 (June 2003): 1-2.
+Jenkins, Rhys. "[Globalisation and Employment: Working for the Poor?](https://archive.ids.ac.uk/eldis/document/A57816.html)" *Insights: Development Research* no. 47 (June 2003): 1-2.
 
 Lepenies, Philipp. "[Exit, Voice, and Vouchers: Using Vouchers to Train Microentrepreneurs: Observations from the Paraguayan Voucher Scheme.](http://dx.doi.org/10.1016/j.worlddev.2003.10.006)" *World Development* 32, no. 4 (2004): 713-724.
 
-Ananth Pur, Kripa and Mick Moore. "[Ambiguous Institutions: Traditional Governance and Local Democracy in Rural India](http://www.eldis.org/assets/Docs/33864.html)." IDS Working Paper #282. Brighton, UK: Institute of Development Studies at the University of Sussex, 2007.
+Ananth Pur, Kripa and Mick Moore. "[Ambiguous Institutions: Traditional Governance and Local Democracy in Rural India](https://assets.publishing.service.gov.uk/media/57a08be8ed915d3cfd001026/Wp282.pdf)." IDS Working Paper #282. Brighton, UK: Institute of Development Studies at the University of Sussex, 2007.
 
 Ananth Pur, Kripa. "[Rivalry or Synergy? Formal and Informal Local Governance in Rural India](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-7660.2007.00417.x)." *Development and Change* 38, no. 3 (2007): 401-421.
 
@@ -299,7 +299,7 @@ Guest Researcher: Salo Coslovsky, Assistant Professor of International Developme
 
 Coslovsky, Salo. "Economic Development Without Pre-requisites: How Bolivian Firms Displaced Brazilian Competitors and Dominated the Global Brazil-Nut Business." New York University, Wagner School, Forthcoming 2010.
 
-Doner, Richard, and Ben Schneider. "Business Associations and Economic Development: Why Some Associations Contribute More than Others." *Business and Politics* 3 (2000): 261-288. ([PDF](http://econ.tu.ac.th/archan/rangsun/MB%20663/MB%20663%20Readings/%E0%B9%92.%20%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/Business%20Associations/Business%20Associations%20and%20Economic%20Development.pdf))
+Doner, Richard, and Ben Schneider. ["Business Associations and Economic Development: Why Some Associations Contribute More than Others."](https://www.cambridge.org/core/journals/business-and-politics/article/abs/business-associations-and-economic-development-why-some-associations-contribute-more-than-others/80BFA7537971DEE48B0143A253103BB4) *Business and Politics* 3 (2000): 261-288.
 
 Cammett, Melani. "[Fat Cats and Self-Made Men: Globalization and the Paradoxes of Collective Action](http://www.jstor.org/stable/20072900)." *Comparative Politics* 37 (July 2005): 379-400.
 
@@ -307,7 +307,7 @@ Cammett, Melani. "[Fat Cats and Self-Made Men: Globalization and the Paradoxes o
 
 Humphrey, John, and Hubert Schmitz. "[How Does Insertion in Global Value Chains Affect Upgrading in Industrial Clusters?](http://www.informaworld.com/smpp/content~content=a738552480~db=all)" *Regional Studies* 36 (2002): 1017-1027.
 
-Schmitz, Hubert, and Bernard Musyck. "[Industrial Districts in Europe: Policy Lessons for Developing Countries?](http://dx.doi.org/10.1016/0305-750X(94)90060-4)" *World Development* 22 (June 1994): 889-910.
+Schmitz, Hubert, and Bernard Musyck. "[Industrial Districts in Europe: Policy Lessons for Developing Countries?](http://dx.doi.org/10.1016/0305-750X%2894%2990060-4)" *World Development* 22 (June 1994): 889-910.
 
 Kaplinsky, Raphael. "Globalisation and Unequalisation: What Can Be Learned from Value Chain Analysis?" In *Globalisation and Trade*. Edited by Oliver Morrissey and Igor Filatotchev. London, UK: Routledge, 2001. ISBN: 9780714651590.
 
@@ -391,7 +391,7 @@ Elliott, Kimberly, and Richard Freeman. *Can Labor Standards Improve under Globa
 
 Schrank, Andrew. "[Labor Standards and Human Resources: A Natural Experiment in an Unlikely Laboratory](http://www.princeton.edu/~ina/gkg/confs/schrank.pdf)." Paper presented at the annual meeting of the American Sociological Association, Montreal, Canada, August 11, 2006.
 
-Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. ( [PDF](http://econ-www.mit.edu/files/1112))
+Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. ( [PDF](https://economics.mit.edu/sites/default/files/inline-files/Rethinking%20Mexicos%20Labor%20Standards%20in%20a%20Global%20Eco.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
