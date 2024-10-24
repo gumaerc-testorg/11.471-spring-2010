@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of an exemplary paper written by a student of the course.
-file: /courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/e1e97bfcb0cfb704f041a8e01170087f_MIT11_471S10_Rural_sector.pdf
+file: /ol-ocw-studio-app/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/e1e97bfcb0cfb704f041a8e01170087f_MIT11_471S10_Rural_sector.pdf
 file_size: 91724
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment based on the readings of the course.
-file: /courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/ba9c25cdf9dc9eaedbccdc5f87ed4899_MIT11_471S10_Assignment2.pdf
+file: /ol-ocw-studio-app/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/ba9c25cdf9dc9eaedbccdc5f87ed4899_MIT11_471S10_Assignment2.pdf
 file_size: 18869
 file_type: application/pdf
 learning_resource_types:

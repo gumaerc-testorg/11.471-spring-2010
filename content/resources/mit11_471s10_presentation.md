@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instruction or the final oral presentation assignment of the course.
-file: /courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/f325d0b33f02c15998c3ea3b48d2223d_MIT11_471S10_Presentation.pdf
+file: /ol-ocw-studio-app/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/f325d0b33f02c15998c3ea3b48d2223d_MIT11_471S10_Presentation.pdf
 file_size: 62036
 file_type: application/pdf
 learning_resource_types:
