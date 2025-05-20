@@ -4,7 +4,7 @@ description: 'Article provided as a suggested reading for the course: Tendler, J
   "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer
   Organizations-Honduras. Prepared for the Office of Development Programs of the Latin
   American Bureau of A.I.D.'
-file: /ol-ocw-studio-app/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/78fbd6c7550a3ec1f2d80b02bb6a52da_MIT11_471S10_Agrarian.pdf
+file: /courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/78fbd6c7550a3ec1f2d80b02bb6a52da_MIT11_471S10_Agrarian.pdf
 file_size: 3102238
 file_type: application/pdf
 learning_resource_types:
